@@ -1,10 +1,16 @@
 # University_ERP_1.0
 C++ File Based  Student Management System
+<br><br>
+## Features
 <br>
-#Features
+- ✅ Add New Student<br>
+- ✅ Search Student by RollNo<br>
+- ✅ Update Student Address  <br>
+- ✅ Display All Students Data<br>
+- ✅ Data stored in `student.txt`<br>
+<br><br>
+## Tech Stack
 <br>
- Add New Student
-<br>
- Display All and Search Student by RollNo
-<br>
- Edit Student by RollNo
+- Language: C++
+- Libraries: iostream, fstream, windows.h
+- OOP Concepts: Encapsulation, Classes
