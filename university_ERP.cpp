@@ -173,14 +173,6 @@ int main(){
 	   }else{
 	   		cout<<"\tYou Entered Invalid choice,Try again."<<endl<<endl;
 	   }
-	
-	 }
-     
-	
-	
-	
-	
-	
-	
-	return 0;
+ }
+return 0
 }
