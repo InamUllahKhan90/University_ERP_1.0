@@ -2,8 +2,9 @@
 C++ File Based  Student Management System
 <br>
 #Features
-I) Add New Student
 <br>
-II) Display All and Search Student by RollNo
+ Add New Student
 <br>
-III) Edit Student by RollNo
+ Display All and Search Student by RollNo
+<br>
+ Edit Student by RollNo
